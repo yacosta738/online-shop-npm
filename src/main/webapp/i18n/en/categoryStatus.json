@@ -1,0 +1,10 @@
+{
+  "shopifyApp": {
+    "CategoryStatus": {
+      "null": "",
+      "AVAILABLE": "AVAILABLE",
+      "RESTRICTED": "RESTRICTED",
+      "DISABLED": "DISABLED"
+    }
+  }
+}
